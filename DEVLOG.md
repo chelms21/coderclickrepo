@@ -7,3 +7,5 @@
 11-21-21: made credits on repo, added some images and music to repo
 
 11-28-21: made upgrades section
+
+11-29-21: fixed bug where it would not save prestige
