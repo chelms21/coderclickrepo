@@ -8,4 +8,4 @@
 
 11-28-21: made upgrades section
 
-11-29-21: fixed bug where it would not save prestige
+11-29-21: fixed bug where it would not save prestige, added prestige shop section
