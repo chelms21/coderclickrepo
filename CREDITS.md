@@ -2,4 +2,4 @@
 
 Main coder/developer: me
 
-Ideas: Nathan McWhorter and Aden Fecher
+Some ideas: Nathan McWhorter and Aden Fecher
