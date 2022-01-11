@@ -12,4 +12,4 @@
 
 01-03-22: fixed bug where when you would prestige, it would not reset the elements on the page to their default
 
-01-11-22: added ability to use the space bar to click instead of your mouse
+01-11-22: added ability to use the space bar to click instead of your mouse, added animation when you click with you mouse
