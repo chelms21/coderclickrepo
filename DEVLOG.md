@@ -17,3 +17,5 @@
 01-18-22: made new soundtrack
 
 01-24-22: added new background to right side
+
+01-25-22: added game distributors
