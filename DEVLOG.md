@@ -15,3 +15,5 @@
 01-11-22: added ability to use the space bar to click instead of your mouse, added animation when you click with you mouse, and changed the cursor image on the big button
 
 01-18-22: made new soundtrack
+
+01-24-22: added new background to right side
