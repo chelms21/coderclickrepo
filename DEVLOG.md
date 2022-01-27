@@ -20,4 +20,6 @@
 
 01-25-22: added game distributors
 
+01-26-22: added new page to the game for links and info
+
 01-27-22: made it so you could click on the price to get an item
