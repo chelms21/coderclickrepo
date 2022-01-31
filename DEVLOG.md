@@ -23,3 +23,5 @@
 01-26-22: added new page to the game for links and info
 
 01-27-22: made it so you could click on the price to get an item
+
+01-31-22: changed font to Brush Script MT
