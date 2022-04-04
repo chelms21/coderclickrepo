@@ -27,3 +27,5 @@
 01-31-22: changed font to Brush Script MT
 
 03-01-22: companies are now dev teams
+
+04-04-22: you can now get coders, robots, game devs and hackers from prestige, and at prestige level 50 the speed that you get income goes from income/1 sec to income/0.5 sec
